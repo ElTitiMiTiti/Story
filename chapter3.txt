@@ -1,0 +1,15 @@
+<!-- FILEPATH: c:\Users\xemya\Desktop\Story\chapter3.html -->
+
+<!-- Example to-do list -->
+<ul>
+  <li>Buy groceries</li>
+  <li>Do laundry</li>
+  <li class="completed">Clean the bathroom</li>
+</ul>
+
+<!-- CSS to add line-through style to completed items -->
+<style>
+  .completed {
+    text-decoration: line-through;
+  }
+</style>
