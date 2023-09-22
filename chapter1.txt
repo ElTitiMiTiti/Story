@@ -1,0 +1,15 @@
+// Define an empty array to store the tasks
+let todoList = [];
+
+// Add tasks to the array
+todoList.push("Complete chapter 1");
+todoList.push("Buy groceries");
+todoList.push("Call mom");
+
+// Print the tasks in the array
+console.log("To-Do List:");
+for (let i = 0; i < todoList.length; i++) {
+  console.log(i + 1 + ". " + todoList[i]);
+}
+
+That is the story about my list.
